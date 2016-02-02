@@ -16,5 +16,9 @@
     "file-loader": "^0.8.5",
     "react": "^0.14.7",
     "webpack": "^1.12.12"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0"
   }
 }
